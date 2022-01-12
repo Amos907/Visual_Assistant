@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286175889230",
+    "project_id": "visual-assistant-b1236",
+    "storage_bucket": "visual-assistant-b1236.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286175889230:android:604fd2af846ee09710801f",
+        "android_client_info": {
+          "package_name": "com.noel.bar_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286175889230-0od6s9c3hb405lv7jf7q79561v0eqctc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwmsXCX2nxML0f8byZRrPMVFyYuZQlSA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286175889230-0od6s9c3hb405lv7jf7q79561v0eqctc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
